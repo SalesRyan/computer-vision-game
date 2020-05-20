@@ -55,7 +55,7 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 
 #### load_fruts
  - *This function loads the images of the fruits, creates the objects and sets their basic information.*
- ![title](imgs/banana.png) ![title](imgs/cereja.png) ![title](imgs/melancia.png) ![title](imgs/morango.png) ![title](imgs/bomba.png)
+ #### ![title](imgs/banana.png) ![title](imgs/cereja.png) ![title](imgs/melancia.png) ![title](imgs/morango.png) ![title](imgs/bomba.png)
  - *The collision values are 1, 2, 5, 10 and -50, respectively.*
 
 #### setscenario
@@ -63,9 +63,13 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 
 #### getEmoji
  - *This function loads the emojis that were used to show the player what the detection status is.*
+  - ![title](imgs_face/smile.png) *Indicates that the player does not have his eyes closed and is smiling.*
+  - ![title](imgs_face/closedeyes.png) *Indicates that the player has his eyes closed.*
+  - ![title](imgs_face/normal.png) *Indicates that the player has his eyes open and not smiling.*
 
 #### menuImgs
- - *This function loads the menu elements.*
+ - This function loads the menu elements.
+   ![title](menu/start.png) ![title](menu/about.png) 
  - *In the start menu the game starts in 2 seconds. To select smile near the start.*
  - *In the About menu the player will be redirected to the github link, and the game will close.*
 
