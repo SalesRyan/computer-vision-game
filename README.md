@@ -55,11 +55,7 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 
 #### load_fruts
  - *This function loads the images of the fruits, creates the objects and sets their basic information.*
-<p> <img src="imgs/banana.png" >  </p>
-<p> <img src="imgs/cereja.png">   </p>
-<p> <img src="imgs/melancia>      </p>
-<p> <img src="imgs/morango.png" > </p>
-
+ ![title](imgs/banana.png) ![title](imgs/cereja.png) ![title](imgs/melancia.png) ![title](imgs/morango.png) ![title](imgs/bomba.png)
  - *The collision values are 1, 2, 5, 10 and -50, respectively.*
 
 #### setscenario
