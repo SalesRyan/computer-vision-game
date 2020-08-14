@@ -5,6 +5,8 @@
 # computer-vision-game
 Repository dedicated to the development of a game using computer vision and image processing.
 
+![alt text](https://github.com/SalesRyan/computer-vision-game/blob/master/ex.gif)
+
 ## Requirements
 - [Python3](https://www.python.org/downloads/release/python-382/) 
 
